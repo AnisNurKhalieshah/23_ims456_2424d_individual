@@ -127,9 +127,10 @@ html{
 
 /* Experience Section */
 #portfolio{
+  background-color: teal;
   display: flex;
   flex-direction: column;
-  background-color:rgba(0, 0, 0, 0.9)
+  background-color: cadetblue;
   color: azure;
   allign-items: center;
   padding: 20px;
@@ -216,6 +217,7 @@ tr:hover {
 
 /*Contact Section*/
 #contact{
+  background-color: cyan;
   display: flex;
   flex-direction: column;
   box-sizing: border-box;
